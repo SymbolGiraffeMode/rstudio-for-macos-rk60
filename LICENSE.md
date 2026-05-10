@@ -1,4 +1,4 @@
-
+updated RStudio for macOS Integration | custom-functions + multi-sheet-management offers the most advanced RStudio for macOS integration, with custom-functions and
 
 
 
